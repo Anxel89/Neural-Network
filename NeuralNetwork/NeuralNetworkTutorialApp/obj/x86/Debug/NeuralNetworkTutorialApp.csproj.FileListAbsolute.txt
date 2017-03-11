@@ -1,0 +1,21 @@
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.exe
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.pdb
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.dll
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.pdb
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.exe
+c:\users\ryan\documents\visual studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.pdb
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.exe
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.pdb
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.exe
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.pdb
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.dll
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.pdb
+E:\Backup\Documents\Visual Studio 2010\Projects\NeuralNetworkTutorial\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.exe
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.pdb
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.exe
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetworkTutorialApp.pdb
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.dll
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\bin\Debug\NeuralNetwork.pdb
+C:\Users\anxel\Downloads\NeuralNetwork\NeuralNetwork\NeuralNetworkTutorialApp\obj\x86\Debug\NeuralNetworkTutorialApp.csprojResolveAssemblyReference.cache

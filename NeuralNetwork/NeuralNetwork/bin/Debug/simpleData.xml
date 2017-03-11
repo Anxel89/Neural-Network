@@ -1,0 +1,576 @@
+<Root>
+  <DataSet>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+                <Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">0</Data>
+        <Data Index="7">1</Data>
+                <Data Index="8">0</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+                <Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+                <Data Index="14">1</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">1</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">1</Data>
+                <Data Index="23">0</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+                <Data Index="1">0</Data>
+                <Data Index="2">0</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">1</Data>
+        <Data Index="1">0</Data>
+                <Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">1</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">1</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">1</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+                <Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+                <Data Index="14">0</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">1</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">1</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">1</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+                <Data Index="23">0</Data>
+                <Data Index="24">1</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+                <Data Index="1">2</Data>
+                <Data Index="2">0</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+                <Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">0</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+                <Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+                <Data Index="14">1</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+                <Data Index="23">0</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+                <Data Index="1">0</Data>
+                <Data Index="2">1</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+                <Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">0</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+                <Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+                <Data Index="14">1</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">1</Data>
+                <Data Index="23">0</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+                <Data Index="1">0</Data>
+                <Data Index="2">0</Data>
+                <Data Index="3">1</Data>
+      </Output>
+    </DataPoint>
+  </DataSet>
+  <DataSet>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+                <Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">1</Data>
+        <Data Index="7">1</Data>
+                <Data Index="8">0</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+                <Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+                <Data Index="14">0</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">1</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+                <Data Index="23">1</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+                <Data Index="1">0</Data>
+                <Data Index="2">0</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+                <Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">1</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+                <Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+                <Data Index="14">0</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">1</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+                <Data Index="23">1</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+                <Data Index="1">1</Data>
+                <Data Index="2">0</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+                <Data Index="2">1</Data>
+        <Data Index="3">1</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">1</Data>
+                <Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">0</Data>
+                <Data Index="9">1</Data>
+        <Data Index="10">0</Data>
+                <Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+                <Data Index="14">0</Data>
+                <Data Index="15">1</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">0</Data>
+        <Data Index="19">1</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+                <Data Index="23">1</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+                <Data Index="1">1</Data>
+                <Data Index="2">1</Data>
+                <Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+                <Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+                <Data Index="5">0</Data>
+                <Data Index="6">1</Data>
+        <Data Index="7">0</Data>
+                <Data Index="8">1</Data>
+                <Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+                <Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+                <Data Index="14">0</Data>
+                <Data Index="15">0</Data>
+                <Data Index="16">0</Data>
+                <Data Index="17">0</Data>
+                <Data Index="18">1</Data>
+        <Data Index="19">0</Data>
+                <Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+                <Data Index="23">1</Data>
+                <Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+                <Data Index="1">1</Data>
+                <Data Index="2">1</Data>
+                <Data Index="3">1</Data>
+      </Output>
+    </DataPoint>
+  </DataSet>
+</Root>
+RAW Paste Data
+
+<Root>
+  <DataSet>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+		<Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">0</Data>
+        <Data Index="7">1</Data>
+		<Data Index="8">0</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+		<Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+		<Data Index="14">1</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">1</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">1</Data>
+		<Data Index="23">0</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+		<Data Index="1">0</Data>
+		<Data Index="2">0</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">1</Data>
+        <Data Index="1">0</Data>
+		<Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">1</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">1</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">1</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+		<Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+		<Data Index="14">0</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">1</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">1</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">1</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+		<Data Index="23">0</Data>
+		<Data Index="24">1</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+		<Data Index="1">2</Data>
+		<Data Index="2">0</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+		<Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">0</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+		<Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+		<Data Index="14">1</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+		<Data Index="23">0</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+		<Data Index="1">0</Data>
+		<Data Index="2">1</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+		<Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">0</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">1</Data>
+		<Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+		<Data Index="14">1</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">1</Data>
+		<Data Index="23">0</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">0</Data>
+		<Data Index="1">0</Data>
+		<Data Index="2">0</Data>
+		<Data Index="3">1</Data>
+      </Output>
+    </DataPoint>
+  </DataSet>
+  <DataSet>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">0</Data>
+		<Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">1</Data>
+        <Data Index="7">1</Data>
+		<Data Index="8">0</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+		<Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+		<Data Index="14">0</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">1</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+		<Data Index="23">1</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+		<Data Index="1">0</Data>
+		<Data Index="2">0</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+		<Data Index="2">1</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">1</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+		<Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">0</Data>
+		<Data Index="14">0</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">1</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+		<Data Index="23">1</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+		<Data Index="1">1</Data>
+		<Data Index="2">0</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+		<Data Index="2">1</Data>
+        <Data Index="3">1</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">1</Data>
+		<Data Index="6">0</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">0</Data>
+		<Data Index="9">1</Data>
+        <Data Index="10">0</Data>
+		<Data Index="11">0</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+		<Data Index="14">0</Data>
+		<Data Index="15">1</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">0</Data>
+        <Data Index="19">1</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">1</Data>
+        <Data Index="22">1</Data>
+		<Data Index="23">1</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+		<Data Index="1">1</Data>
+		<Data Index="2">1</Data>
+		<Data Index="3">0</Data>
+      </Output>
+    </DataPoint>
+    <DataPoint>
+      <Input>
+        <Data Index="0">0</Data>
+        <Data Index="1">1</Data>
+		<Data Index="2">0</Data>
+        <Data Index="3">0</Data>
+        <Data Index="4">0</Data>
+		<Data Index="5">0</Data>
+		<Data Index="6">1</Data>
+        <Data Index="7">0</Data>
+		<Data Index="8">1</Data>
+		<Data Index="9">0</Data>
+        <Data Index="10">0</Data>
+		<Data Index="11">1</Data>
+        <Data Index="12">1</Data>
+        <Data Index="13">1</Data>
+		<Data Index="14">0</Data>
+		<Data Index="15">0</Data>
+		<Data Index="16">0</Data>
+		<Data Index="17">0</Data>
+		<Data Index="18">1</Data>
+        <Data Index="19">0</Data>
+		<Data Index="20">0</Data>
+        <Data Index="21">0</Data>
+        <Data Index="22">0</Data>
+		<Data Index="23">1</Data>
+		<Data Index="24">0</Data>
+      </Input>
+      <Output>
+        <Data Index="0">1</Data>
+		<Data Index="1">1</Data>
+		<Data Index="2">1</Data>
+		<Data Index="3">1</Data>
+      </Output>
+    </DataPoint>
+  </DataSet>
+</Root>
+
+                
